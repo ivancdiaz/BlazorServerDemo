@@ -11,3 +11,7 @@ This is a Blazor Server project that demonstrates basic CRUD operations using Bl
 ## Project Structure:
 - `Pages/`: Contains Blazor pages like `Index.razor`
 - `Components/`: Contains reusable Blazor components
+
+## Prerequisites:
+- .NET SDK (6.0 or higher)
+- A compatible browser (e.g., Chrome, Edge)
