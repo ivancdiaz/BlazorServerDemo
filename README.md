@@ -9,8 +9,8 @@ This is a Blazor Server project that demonstrates basic CRUD operations using Bl
 4. Run the project: `dotnet run`
 
 ## Project Structure:
-- `Pages/`: Contains Blazor pages like `Index.razor`
-- `Components/`: Contains reusable Blazor components
+- `Pages/`: Contains Blazor pages such as `Home.razor` and `Error.razor`.
+- `Components/`: Contains reusable Blazor components and layout files such as `MainLayout.razor`.
 
 ## Prerequisites:
 - .NET SDK (6.0 or higher)
